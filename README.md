@@ -1,79 +1,54 @@
-# Rodrigo Reis
+**Analista e Desenvolvedor de Software**, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor full stack com foco em **backend Java**.
 
-![](https://komarev.com/ghpvc/?username=rodrigoreisrsz&color=lightgrey)
+Atualmente, trabalho como voluntariado no desenvolvimento da ChargedCode um projeto em equipe com foco em tutoria para novos desenvolvedores, participando desde a análise de requisitos, modelagem do banco de dados até a implementação de APIs, regras de negócio, testes automatizados e integração com o frontend.
 
-`backend developer — java / spring boot`
+Tenho interesse em **backend, arquitetura de software, qualidade de código, testes automatizados, APIs REST e desenvolvimento de aplicações escaláveis e de fácil manutenção**.
 
-construindo minha base como **desenvolvedor backend em java e spring boot**.
+## 💻 Tecnologias e ferramentas
 
-atualmente cursando **análise de desenvolvimento de sistemas** com foco em conseguir minha primeira posição como backend júnior .
-busco conhecimento e resolução de problemas todos os dias.
+### Backend
 
-tenho migrado projetos de **CLI/Terminal** para **java/spring boot**, seguindo boas práticas de arquitetura em camadas (entities, dto, repositories, services, controllers).
-
-gosto de entender o que acontece por trás da abstração, e estou construindo essa base um projeto de cada vez.
-
----
-
-## tech stack
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
-<img src="https://img.shields.io/badge/JUnit-000000?style=for-the-badge&logo=junit5&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-
-<br>
-
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven&theme=dark" alt="Java, Spring"/>
+  <img height="48" src="https://cdn.simpleicons.org/quarkus/4695EB" alt="Quarkus"/>
 </p>
 
-<div align="center">
+### Frontend
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rodrigoreisrsz/rodrigoreisrsz/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rodrigoreisrsz/rodrigoreisrsz/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rodrigoreisrsz/rodrigoreisrsz/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
-
----
-
-## stats
-
-<p align="center">
-  <img
-    width="420"
-    src="https://github-stats-extended.vercel.app/api?username=rodrigoreisrsz&show_icons=true&include_all_commits=true&theme=dark&hide_title=true&v=2"
-  />
-  <img
-    width="320"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=rodrigoreisrsz&layout=compact&theme=dark&hide_title=true&v=2"
-  />
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,typescript&theme=dark" alt="Angular, TypeScript"/>
 </p>
 
----
+### Bancos de dados
 
-## projetos
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb&theme=dark" alt="PostgreSQL,MongoDB"/>
+  <img height="48" src="https://cdn.simpleicons.org/oracle/F80000" alt="Oracle"/>
+</p>
 
+### Testes e qualidade de código
 
-**java task manager cli** — gerenciador de tarefas em Sprint boot
+<p>
+  <img height="45" src="https://cdn.simpleicons.org/junit5/25A162" alt="JUnit 5"/>
+</p>
 
----
+`JUnit 5` · `Mockito` · `JaCoCo` · `PIT Mutation Testing` · `Karma`
 
-[github](https://github.com/rodrigoreisrsz)
+### DevOps e infraestrutura
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,jenkins&theme=dark" alt="Docker, AWS, Jenkins"/>
+  <img height="48" src="https://cdn.simpleicons.org/redhatopenshift/EE0000" alt="OpenShift"/>
+</p>
+
+## 📫 Contato
+
+<p>
+  <a href="linkedin.com/in/rodrigo-reis-44815b372">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="rodrigoreis15822@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+</p>
